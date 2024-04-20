@@ -40,7 +40,7 @@ PREPAMIGO revolutionizes the data preprocessing experience for data scientists b
 
 ![PREPAMIGO4](PREPAMIGO4.png)
 
-*Figure 1: Satistics view*
+*Figure 4: Satistics view*
 
 
 
