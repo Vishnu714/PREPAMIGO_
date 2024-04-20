@@ -26,15 +26,15 @@ PREPAMIGO revolutionizes the data preprocessing experience for data scientists b
 
 ## Screenshots
 
-![PREPAMIGO2](PREPAMIGO2.PNG)
+![PREPAMIGO2](PREPAMIGO2.png)
 
 *Figure 2: Preproccessing tools*
 
-![PREPAMIGO3](PREPAMIGO3.PNG)
+![PREPAMIGO3](PREPAMIGO3.png)
 
 *Figure 3: Changing datatypes and Road map sidebar*
 
-![PREPAMIGO4](PREPAMIGO4.PNG)
+![PREPAMIGO4](PREPAMIGO4.png)
 
 *Figure 1: Satistics view*
 
