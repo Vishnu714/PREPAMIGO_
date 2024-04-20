@@ -30,13 +30,19 @@ PREPAMIGO revolutionizes the data preprocessing experience for data scientists b
 
 *Figure 2: Preproccessing tools*
 
+
+
 ![PREPAMIGO3](PREPAMIGO3.png)
 
 *Figure 3: Changing datatypes and Road map sidebar*
 
+
+
 ![PREPAMIGO4](PREPAMIGO4.png)
 
 *Figure 1: Satistics view*
+
+
 
 ### Purpose
 PREPAMIGO aims to empower data scientists with a powerful, efficient, and enjoyable preprocessing tool that accelerates the data preparation process, allowing them to focus more on analysis, modeling, and insights generation. By simplifying and gamifying the preprocessing experience, PREPAMIGO transforms a traditionally mundane task into an exciting and rewarding journey.
