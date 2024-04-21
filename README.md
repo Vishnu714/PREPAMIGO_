@@ -5,7 +5,7 @@ PREPAMIGO revolutionizes the data preprocessing experience for data scientists b
 
 
 
-![PREPAMIGO1](https://github.com/Vishnu714/PREPAMIGO/assets/103439401/48a8114e-8ace-48a1-bc29-a23544de36dd)
+![PREPAMIGO1](PREPAMIGO1.png)
 
 *Figure 1: PREPAMIGO*
 
